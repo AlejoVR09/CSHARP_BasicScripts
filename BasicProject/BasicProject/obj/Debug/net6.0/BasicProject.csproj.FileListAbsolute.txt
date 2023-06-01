@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BasicProject\BasicProject\bin\Debug\net6.0\BasicProject.exe
+C:\Users\user\source\repos\BasicProject\BasicProject\bin\Debug\net6.0\BasicProject.deps.json
+C:\Users\user\source\repos\BasicProject\BasicProject\bin\Debug\net6.0\BasicProject.runtimeconfig.json
+C:\Users\user\source\repos\BasicProject\BasicProject\bin\Debug\net6.0\BasicProject.dll
+C:\Users\user\source\repos\BasicProject\BasicProject\bin\Debug\net6.0\BasicProject.pdb
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.AssemblyInfo.cs
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.dll
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\refint\BasicProject.dll
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.pdb
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\BasicProject.genruntimeconfig.cache
+C:\Users\user\source\repos\BasicProject\BasicProject\obj\Debug\net6.0\ref\BasicProject.dll

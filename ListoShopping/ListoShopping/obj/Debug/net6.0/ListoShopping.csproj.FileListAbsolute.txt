@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ListoShopping\ListoShopping\bin\Debug\net6.0\ListoShopping.exe
+C:\Users\user\source\repos\ListoShopping\ListoShopping\bin\Debug\net6.0\ListoShopping.deps.json
+C:\Users\user\source\repos\ListoShopping\ListoShopping\bin\Debug\net6.0\ListoShopping.runtimeconfig.json
+C:\Users\user\source\repos\ListoShopping\ListoShopping\bin\Debug\net6.0\ListoShopping.dll
+C:\Users\user\source\repos\ListoShopping\ListoShopping\bin\Debug\net6.0\ListoShopping.pdb
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.AssemblyInfo.cs
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.dll
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\refint\ListoShopping.dll
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.pdb
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ListoShopping.genruntimeconfig.cache
+C:\Users\user\source\repos\ListoShopping\ListoShopping\obj\Debug\net6.0\ref\ListoShopping.dll
